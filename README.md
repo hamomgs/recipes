@@ -1,4 +1,4 @@
-<h1 align="center">InfoFlix</h1>
+<h1 align="center">Recipes</h1>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hamomgs/infoflix?color=%2304D361" />
